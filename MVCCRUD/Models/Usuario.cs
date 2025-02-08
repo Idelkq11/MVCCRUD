@@ -9,4 +9,4 @@ namespace MVCCRUD.Models
         public DateTime? Fecha { get; set; }
         public string Clave { get; set; } = string.Empty;
     }
-}
+} 
